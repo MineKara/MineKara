@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center" width="100%">
-    <img width="40%" src="dt_sc.jpg">
+    <img width="40%" src="images/dt_sc.jpg">
 </p>
 
 </br>
@@ -29,6 +29,6 @@ I am a dedicated and ambitious professional with a background in Building Inform
 <p align="left">
 <a href="https://www.linkedin.com/in/mine-kara-075883139/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/mn_kara00" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-
+<a href="https://twitter.com/mn_kara00" target="blank" rel="nofollow"><img align="center" src="images/web.png" alt="twitter" height="30" width="40" /></a>
 
 </p>
