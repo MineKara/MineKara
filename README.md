@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mine Kara</h1>
-<h3 align="center"> BIM Specialist who passionate about data science. Love to work with data😄
+<h3 align="center"> Love to work with data😄
 </h3>
 
 <p align="center" width="100%">
@@ -9,7 +9,7 @@
 </br>
 
 
-I am a dedicated and ambitious professional with a background in Building Information Modeling (BIM) and a strong passion for data science. My journey in the construction and architectural industry as a BIM Specialist has equipped me with a robust foundation in utilizing technology to enhance project efficiency and collaboration. However, my true calling lies in the world of data science, where I aim to apply my skills and expertise to drive data-driven insights and innovations.
+Versatile BIM Specialist with a strong foundation in spatial data management and 3D modeling. Eager to transition into data science, bringing a blend of analytical skills, programming proficiency, and a passion for uncovering insights from complex datasets. Committed to continuous learning and staying current with evolving industry trends. Excited to apply spatial intelligence and technical expertise to solve real-world problems through data-driven solutions.
 
 
 <h3 align="left">Skills:</h3>
