@@ -14,7 +14,7 @@
     <img width="40%" src="images/dt_sc.jpg">
 </p>
 
-Versatile BIM Specialist with a strong foundation in spatial data management and 3D modeling. Eager to transition into data science, bringing a blend of analytical skills, programming proficiency, and a passion for uncovering insights from complex datasets. Committed to continuous learning and staying current with evolving industry trends. Excited to apply spatial intelligence and technical expertise to solve real-world problems through data-driven solutions.
+I am a dedicated and ambitious professional with a background in data science and a strong passion for leveraging data to derive insights and drive innovation. My journey in various industries has equipped me with a robust foundation in utilizing advanced analytical techniques to extract valuable insights from complex datasets. I am deeply committed to applying my skills and expertise in data science to solve challenging problems and contribute to meaningful advancements in the field. My ultimate goal is to harness the power of data-driven approaches to drive positive impact and transformation across diverse domains.
 
 
 ## Tech Stack 💻
